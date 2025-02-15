@@ -11,6 +11,30 @@ sites:
     url: https://cdn.romi.my.id
   - name: PKL Countdown
     url: https://pkl.romi.my.id
+  - name: AC Repair
+    url: https://acrepair.romi.my.id
+  - name: Docs Template
+    url: https://docs.romi.my.id
+  - name: Ballooney
+    url: https://ballooney.co.id
+  - name: Blue Power Technology
+    url: https://www.bluepowertechnology.com
+  - name: Hamparan Stone
+    url: https://hamparanstone.com
+  - name: Inkprint
+    url: https://inkprint.id
+  - name: Decor House Indonesia
+    url: https://decorhouseindonesia.com
+  - name: Jaroemsadha
+    url: https://jaroemsadha.com
+  - name: Kontakami
+    url: https://kontakami.com
+  - name: Monelo
+    url: https://monelo.id
+  - name: Sugar Filtration Screens
+    url: https://sugarfiltrationscreens.com
+  - name: Trovee Studio
+    url: https://troveestudio.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
