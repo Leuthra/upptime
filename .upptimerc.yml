@@ -21,7 +21,7 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime**"
+  introTitle: "**Upptime Status**"
   introMessage: Romi Muharom's status page, with real-time response times, uptime and status history.
   navbar:
     - title: Status
