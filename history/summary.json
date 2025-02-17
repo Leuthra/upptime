@@ -202,18 +202,20 @@
     "url": "https://jaroemsadha.com",
     "icon": "https://icons.duckduckgo.com/ip3/jaroemsadha.com.ico",
     "slug": "jaroemsadha",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3013,
-    "timeDay": 2474,
-    "timeWeek": 3013,
-    "timeMonth": 3013,
-    "timeYear": 3013,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 2564,
+    "timeDay": 1622,
+    "timeWeek": 2564,
+    "timeMonth": 2564,
+    "timeYear": 2564,
+    "dailyMinutesDown": {
+      "2025-02-17": 0
+    }
   },
   {
     "name": "Kontakami",
