@@ -5,20 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/romi.my.id.ico",
     "slug": "portfolio-site",
     "status": "down",
-    "uptime": "98.66%",
-    "uptimeDay": "21.68%",
-    "uptimeWeek": "72.54%",
-    "uptimeMonth": "93.68%",
-    "uptimeYear": "98.66%",
+    "uptime": "98.67%",
+    "uptimeDay": "21.06%",
+    "uptimeWeek": "72.65%",
+    "uptimeMonth": "93.71%",
+    "uptimeYear": "98.67%",
     "time": 493,
-    "timeDay": 321,
+    "timeDay": 322,
     "timeWeek": 310,
     "timeMonth": 354,
     "timeYear": 493,
     "dailyMinutesDown": {
-      "2025-07-09": 912,
+      "2025-07-09": 921,
       "2025-07-08": 1098,
-      "2025-07-07": 756
+      "2025-07-07": 736
     }
   },
   {
@@ -120,20 +120,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/romidev.tech.ico",
     "slug": "portfolio-site",
     "status": "down",
-    "uptime": "98.67%",
-    "uptimeDay": "21.66%",
-    "uptimeWeek": "72.74%",
-    "uptimeMonth": "93.73%",
-    "uptimeYear": "98.67%",
+    "uptime": "98.68%",
+    "uptimeDay": "21.05%",
+    "uptimeWeek": "72.90%",
+    "uptimeMonth": "93.76%",
+    "uptimeYear": "98.68%",
     "time": 493,
-    "timeDay": 321,
+    "timeDay": 322,
     "timeWeek": 310,
     "timeMonth": 354,
     "timeYear": 493,
     "dailyMinutesDown": {
-      "2025-07-09": 912,
+      "2025-07-09": 921,
       "2025-07-08": 1098,
-      "2025-07-07": 736
+      "2025-07-07": 711
     }
   },
   {
