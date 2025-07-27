@@ -5,20 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/romi.my.id.ico",
     "slug": "portfolio-site",
     "status": "down",
-    "uptime": "98.85%",
-    "uptimeDay": "21.66%",
-    "uptimeWeek": "73.30%",
-    "uptimeMonth": "93.86%",
-    "uptimeYear": "98.85%",
+    "uptime": "98.83%",
+    "uptimeDay": "21.40%",
+    "uptimeWeek": "72.84%",
+    "uptimeMonth": "93.75%",
+    "uptimeYear": "98.83%",
     "time": 387,
-    "timeDay": 275,
+    "timeDay": 271,
     "timeWeek": 301,
-    "timeMonth": 310,
+    "timeMonth": 308,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2025-07-27": 1107,
+      "2025-07-27": 1118,
       "2025-07-26": 1091,
-      "2025-07-25": 493
+      "2025-07-25": 528
     }
   },
   {
@@ -35,7 +35,7 @@
     "time": 1201,
     "timeDay": 871,
     "timeWeek": 1231,
-    "timeMonth": 1352,
+    "timeMonth": 1345,
     "timeYear": 1201,
     "dailyMinutesDown": {
       "2025-07-23": 23
@@ -55,7 +55,7 @@
     "time": 2270,
     "timeDay": 1277,
     "timeWeek": 2036,
-    "timeMonth": 2352,
+    "timeMonth": 2405,
     "timeYear": 2270,
     "dailyMinutesDown": {
       "2025-07-23": 23
@@ -75,7 +75,7 @@
     "time": 945,
     "timeDay": 657,
     "timeWeek": 1036,
-    "timeMonth": 1025,
+    "timeMonth": 1020,
     "timeYear": 945,
     "dailyMinutesDown": {
       "2025-07-23": 23,
@@ -97,7 +97,7 @@
     "time": 234,
     "timeDay": 194,
     "timeWeek": 209,
-    "timeMonth": 237,
+    "timeMonth": 233,
     "timeYear": 234,
     "dailyMinutesDown": {
       "2025-07-23": 23
@@ -117,7 +117,7 @@
     "time": 213,
     "timeDay": 419,
     "timeWeek": 438,
-    "timeMonth": 275,
+    "timeMonth": 279,
     "timeYear": 213,
     "dailyMinutesDown": {
       "2025-07-23": 23
@@ -129,18 +129,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/romidev.tech.ico",
     "slug": "portfolio-site",
     "status": "down",
-    "uptime": "98.85%",
-    "uptimeDay": "21.64%",
-    "uptimeWeek": "73.30%",
-    "uptimeMonth": "93.86%",
-    "uptimeYear": "98.85%",
+    "uptime": "98.84%",
+    "uptimeDay": "21.39%",
+    "uptimeWeek": "73.19%",
+    "uptimeMonth": "93.83%",
+    "uptimeYear": "98.84%",
     "time": 387,
-    "timeDay": 275,
+    "timeDay": 271,
     "timeWeek": 301,
-    "timeMonth": 310,
+    "timeMonth": 308,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2025-07-27": 1107,
+      "2025-07-27": 1118,
       "2025-07-26": 1091,
       "2025-07-25": 493
     }
