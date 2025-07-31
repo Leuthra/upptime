@@ -6,19 +6,19 @@
     "slug": "portfolio-site",
     "status": "down",
     "uptime": "98.75%",
-    "uptimeDay": "15.53%",
-    "uptimeWeek": "70.29%",
-    "uptimeMonth": "93.16%",
+    "uptimeDay": "15.52%",
+    "uptimeWeek": "70.39%",
+    "uptimeMonth": "93.19%",
     "uptimeYear": "98.75%",
     "time": 381,
-    "timeDay": 291,
-    "timeWeek": 298,
+    "timeDay": 296,
+    "timeWeek": 299,
     "timeMonth": 306,
     "timeYear": 381,
     "dailyMinutesDown": {
-      "2025-07-31": 795,
+      "2025-07-31": 821,
       "2025-07-30": 1218,
-      "2025-07-29": 986
+      "2025-07-29": 950
     }
   },
   {
@@ -47,17 +47,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.romi.my.id.ico",
     "slug": "cdn-uploader",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 2246,
     "timeDay": 2470,
     "timeWeek": 1807,
     "timeMonth": 2253,
     "timeYear": 2246,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-23": 23
+    }
   },
   {
     "name": "PKL Countdown",
@@ -128,19 +130,19 @@
     "slug": "portfolio-site",
     "status": "down",
     "uptime": "98.75%",
-    "uptimeDay": "15.53%",
-    "uptimeWeek": "70.28%",
-    "uptimeMonth": "93.16%",
+    "uptimeDay": "15.52%",
+    "uptimeWeek": "70.38%",
+    "uptimeMonth": "93.18%",
     "uptimeYear": "98.75%",
     "time": 381,
-    "timeDay": 291,
-    "timeWeek": 298,
+    "timeDay": 296,
+    "timeWeek": 299,
     "timeMonth": 306,
     "timeYear": 381,
     "dailyMinutesDown": {
-      "2025-07-31": 795,
+      "2025-07-31": 821,
       "2025-07-30": 1218,
-      "2025-07-29": 986
+      "2025-07-29": 950
     }
   },
   {
