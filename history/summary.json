@@ -6,19 +6,19 @@
     "slug": "portfolio-site",
     "status": "down",
     "uptime": "98.82%",
-    "uptimeDay": "15.86%",
-    "uptimeWeek": "70.58%",
+    "uptimeDay": "15.56%",
+    "uptimeWeek": "70.60%",
     "uptimeMonth": "93.23%",
     "uptimeYear": "98.82%",
     "time": 372,
-    "timeDay": 296,
+    "timeDay": 298,
     "timeWeek": 320,
     "timeMonth": 306,
     "timeYear": 372,
     "dailyMinutesDown": {
-      "2025-08-08": 951,
+      "2025-08-08": 965,
       "2025-08-07": 1232,
-      "2025-08-06": 779
+      "2025-08-06": 763
     }
   },
   {
@@ -34,7 +34,7 @@
     "uptimeYear": "99.99%",
     "time": 1204,
     "timeDay": 1570,
-    "timeWeek": 1246,
+    "timeWeek": 1380,
     "timeMonth": 1274,
     "timeYear": 1204,
     "dailyMinutesDown": {
@@ -54,7 +54,7 @@
     "uptimeYear": "99.99%",
     "time": 2237,
     "timeDay": 2370,
-    "timeWeek": 2023,
+    "timeWeek": 2257,
     "timeMonth": 2150,
     "timeYear": 2237,
     "dailyMinutesDown": {
@@ -74,7 +74,7 @@
     "uptimeYear": "99.96%",
     "time": 953,
     "timeDay": 1081,
-    "timeWeek": 974,
+    "timeWeek": 1054,
     "timeMonth": 1022,
     "timeYear": 953,
     "dailyMinutesDown": {
@@ -96,7 +96,7 @@
     "uptimeYear": "99.99%",
     "time": 240,
     "timeDay": 456,
-    "timeWeek": 317,
+    "timeWeek": 310,
     "timeMonth": 251,
     "timeYear": 240,
     "dailyMinutesDown": {
@@ -116,7 +116,7 @@
     "uptimeYear": "99.99%",
     "time": 227,
     "timeDay": 202,
-    "timeWeek": 216,
+    "timeWeek": 230,
     "timeMonth": 338,
     "timeYear": 227,
     "dailyMinutesDown": {
@@ -130,19 +130,19 @@
     "slug": "portfolio-site",
     "status": "down",
     "uptime": "98.82%",
-    "uptimeDay": "15.86%",
-    "uptimeWeek": "70.58%",
+    "uptimeDay": "15.53%",
+    "uptimeWeek": "70.60%",
     "uptimeMonth": "93.23%",
     "uptimeYear": "98.82%",
     "time": 372,
-    "timeDay": 296,
+    "timeDay": 298,
     "timeWeek": 320,
     "timeMonth": 306,
     "timeYear": 372,
     "dailyMinutesDown": {
-      "2025-08-08": 951,
+      "2025-08-08": 966,
       "2025-08-07": 1232,
-      "2025-08-06": 779
+      "2025-08-06": 763
     }
   },
   {
