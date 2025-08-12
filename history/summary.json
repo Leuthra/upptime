@@ -6,17 +6,17 @@
     "slug": "portfolio-site",
     "status": "down",
     "uptime": "98.88%",
-    "uptimeDay": "18.66%",
-    "uptimeWeek": "71.53%",
-    "uptimeMonth": "93.45%",
+    "uptimeDay": "19.14%",
+    "uptimeWeek": "71.60%",
+    "uptimeMonth": "93.46%",
     "uptimeYear": "98.88%",
     "time": 368,
-    "timeDay": 377,
+    "timeDay": 378,
     "timeWeek": 328,
     "timeMonth": 312,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2025-08-12": 1155,
+      "2025-08-12": 1148,
       "2025-08-11": 1142,
       "2025-08-10": 577
     }
@@ -34,7 +34,7 @@
     "uptimeYear": "99.99%",
     "time": 1208,
     "timeDay": 1642,
-    "timeWeek": 1411,
+    "timeWeek": 1400,
     "timeMonth": 1274,
     "timeYear": 1208,
     "dailyMinutesDown": {
@@ -54,7 +54,7 @@
     "uptimeYear": "99.99%",
     "time": 2246,
     "timeDay": 2931,
-    "timeWeek": 2559,
+    "timeWeek": 2545,
     "timeMonth": 2148,
     "timeYear": 2246,
     "dailyMinutesDown": {
@@ -74,7 +74,7 @@
     "uptimeYear": "99.96%",
     "time": 956,
     "timeDay": 1142,
-    "timeWeek": 1065,
+    "timeWeek": 1060,
     "timeMonth": 1041,
     "timeYear": 956,
     "dailyMinutesDown": {
@@ -96,7 +96,7 @@
     "uptimeYear": "99.99%",
     "time": 240,
     "timeDay": 273,
-    "timeWeek": 314,
+    "timeWeek": 275,
     "timeMonth": 256,
     "timeYear": 240,
     "dailyMinutesDown": {
@@ -116,7 +116,7 @@
     "uptimeYear": "99.99%",
     "time": 229,
     "timeDay": 454,
-    "timeWeek": 269,
+    "timeWeek": 276,
     "timeMonth": 347,
     "timeYear": 229,
     "dailyMinutesDown": {
@@ -130,17 +130,17 @@
     "slug": "portfolio-site",
     "status": "down",
     "uptime": "98.88%",
-    "uptimeDay": "18.63%",
-    "uptimeWeek": "71.53%",
-    "uptimeMonth": "93.45%",
+    "uptimeDay": "19.13%",
+    "uptimeWeek": "71.59%",
+    "uptimeMonth": "93.46%",
     "uptimeYear": "98.88%",
     "time": 368,
-    "timeDay": 376,
-    "timeWeek": 327,
+    "timeDay": 378,
+    "timeWeek": 328,
     "timeMonth": 312,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2025-08-12": 1156,
+      "2025-08-12": 1148,
       "2025-08-11": 1142,
       "2025-08-10": 577
     }
