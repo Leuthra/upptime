@@ -6,9 +6,9 @@
     "slug": "portfolio-site",
     "status": "down",
     "uptime": "98.83%",
-    "uptimeDay": "25.66%",
-    "uptimeWeek": "69.96%",
-    "uptimeMonth": "93.09%",
+    "uptimeDay": "25.65%",
+    "uptimeWeek": "70.07%",
+    "uptimeMonth": "93.11%",
     "uptimeYear": "98.83%",
     "time": 368,
     "timeDay": 395,
@@ -16,10 +16,10 @@
     "timeMonth": 319,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2025-08-14": 674,
+      "2025-08-14": 714,
       "2025-08-13": 1080,
       "2025-08-12": 1167,
-      "2025-08-11": 108
+      "2025-08-11": 58
     }
   },
   {
@@ -90,19 +90,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/acrepair.romi.my.id.ico",
     "slug": "ac-repair",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 240,
     "timeDay": 114,
     "timeWeek": 260,
     "timeMonth": 254,
     "timeYear": 240,
-    "dailyMinutesDown": {
-      "2025-07-23": 23
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Docs Template",
@@ -130,21 +128,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/romidev.tech.ico",
     "slug": "portfolio-site",
     "status": "down",
-    "uptime": "98.84%",
+    "uptime": "98.83%",
     "uptimeDay": "25.65%",
-    "uptimeWeek": "70.22%",
-    "uptimeMonth": "93.15%",
-    "uptimeYear": "98.84%",
+    "uptimeWeek": "70.06%",
+    "uptimeMonth": "93.11%",
+    "uptimeYear": "98.83%",
     "time": 368,
     "timeDay": 395,
     "timeWeek": 337,
     "timeMonth": 319,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2025-08-14": 674,
+      "2025-08-14": 715,
       "2025-08-13": 1080,
       "2025-08-12": 1167,
-      "2025-08-11": 81
+      "2025-08-11": 58
     }
   },
   {
