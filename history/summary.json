@@ -6,9 +6,9 @@
     "slug": "portfolio-site",
     "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "33.82%",
-    "uptimeWeek": "73.89%",
-    "uptimeMonth": "93.99%",
+    "uptimeDay": "34.22%",
+    "uptimeWeek": "74.06%",
+    "uptimeMonth": "94.03%",
     "uptimeYear": "99.00%",
     "time": 367,
     "timeDay": 337,
@@ -18,7 +18,7 @@
     "dailyMinutesDown": {
       "2025-08-16": 773,
       "2025-08-15": 1039,
-      "2025-08-14": 822
+      "2025-08-14": 805
     }
   },
   {
@@ -130,7 +130,7 @@
     "slug": "portfolio-site",
     "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "33.79%",
+    "uptimeDay": "34.22%",
     "uptimeWeek": "74.05%",
     "uptimeMonth": "94.03%",
     "uptimeYear": "99.00%",
