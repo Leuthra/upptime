@@ -5,22 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/romi.my.id.ico",
     "slug": "portfolio-site",
     "status": "down",
-    "uptime": "98.94%",
-    "uptimeDay": "31.90%",
-    "uptimeWeek": "71.96%",
-    "uptimeMonth": "93.55%",
-    "uptimeYear": "98.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 367,
-    "timeDay": 391,
+    "timeDay": 386,
     "timeWeek": 362,
     "timeMonth": 328,
     "timeYear": 367,
-    "dailyMinutesDown": {
-      "2025-08-20": 668,
-      "2025-08-19": 973,
-      "2025-08-18": 1131,
-      "2025-08-17": 56
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -68,21 +63,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pkl.romi.my.id.ico",
     "slug": "pkl-countdown",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.96%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 956,
     "timeDay": 574,
     "timeWeek": 951,
     "timeMonth": 1025,
     "timeYear": 956,
-    "dailyMinutesDown": {
-      "2025-07-23": 23,
-      "2025-04-11": 54,
-      "2025-04-06": 33
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AC Repair",
@@ -130,22 +121,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/romidev.tech.ico",
     "slug": "portfolio-site",
     "status": "down",
-    "uptime": "98.94%",
-    "uptimeDay": "31.90%",
-    "uptimeWeek": "71.96%",
-    "uptimeMonth": "93.55%",
-    "uptimeYear": "98.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 367,
-    "timeDay": 391,
+    "timeDay": 386,
     "timeWeek": 362,
     "timeMonth": 328,
     "timeYear": 367,
-    "dailyMinutesDown": {
-      "2025-08-20": 669,
-      "2025-08-19": 973,
-      "2025-08-18": 1131,
-      "2025-08-17": 56
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Test Broken Site",
