@@ -5,17 +5,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/romi.my.id.ico",
     "slug": "portfolio-site",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.94%",
+    "uptimeDay": "30.86%",
+    "uptimeWeek": "71.77%",
+    "uptimeMonth": "93.50%",
+    "uptimeYear": "98.94%",
     "time": 367,
-    "timeDay": 386,
+    "timeDay": 389,
     "timeWeek": 362,
     "timeMonth": 328,
     "timeYear": 367,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-20": 704,
+      "2025-08-19": 973,
+      "2025-08-18": 1131,
+      "2025-08-17": 39
+    }
   },
   {
     "name": "API",
@@ -81,19 +86,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/acrepair.romi.my.id.ico",
     "slug": "ac-repair",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 243,
     "timeDay": 172,
     "timeWeek": 305,
     "timeMonth": 267,
     "timeYear": 243,
-    "dailyMinutesDown": {
-      "2025-07-23": 23
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Docs Template",
@@ -121,17 +124,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/romidev.tech.ico",
     "slug": "portfolio-site",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.94%",
+    "uptimeDay": "30.82%",
+    "uptimeWeek": "71.77%",
+    "uptimeMonth": "93.50%",
+    "uptimeYear": "98.94%",
     "time": 367,
-    "timeDay": 386,
+    "timeDay": 389,
     "timeWeek": 362,
     "timeMonth": 328,
     "timeYear": 367,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-20": 705,
+      "2025-08-19": 973,
+      "2025-08-18": 1131,
+      "2025-08-17": 39
+    }
   },
   {
     "name": "Test Broken Site",
