@@ -6,19 +6,19 @@
     "slug": "portfolio-site",
     "status": "down",
     "uptime": "99.11%",
-    "uptimeDay": "36.19%",
-    "uptimeWeek": "75.69%",
-    "uptimeMonth": "94.41%",
+    "uptimeDay": "36.93%",
+    "uptimeWeek": "75.82%",
+    "uptimeMonth": "94.44%",
     "uptimeYear": "99.11%",
     "time": 372,
-    "timeDay": 377,
+    "timeDay": 375,
     "timeWeek": 415,
     "timeMonth": 348,
     "timeYear": 372,
     "dailyMinutesDown": {
-      "2025-08-24": 906,
+      "2025-08-24": 910,
       "2025-08-23": 846,
-      "2025-08-22": 703
+      "2025-08-22": 686
     }
   },
   {
@@ -35,7 +35,7 @@
     "time": 1211,
     "timeDay": 1342,
     "timeWeek": 1154,
-    "timeMonth": 1257,
+    "timeMonth": 1242,
     "timeYear": 1211,
     "dailyMinutesDown": {
       "2025-07-23": 23
@@ -55,7 +55,7 @@
     "time": 2256,
     "timeDay": 2317,
     "timeWeek": 2338,
-    "timeMonth": 2152,
+    "timeMonth": 2129,
     "timeYear": 2256,
     "dailyMinutesDown": {
       "2025-07-23": 23
@@ -75,7 +75,7 @@
     "time": 956,
     "timeDay": 1078,
     "timeWeek": 968,
-    "timeMonth": 1019,
+    "timeMonth": 1003,
     "timeYear": 956,
     "dailyMinutesDown": {
       "2025-07-23": 23,
@@ -97,7 +97,7 @@
     "time": 243,
     "timeDay": 337,
     "timeWeek": 272,
-    "timeMonth": 277,
+    "timeMonth": 275,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2025-07-23": 23
@@ -117,7 +117,7 @@
     "time": 233,
     "timeDay": 124,
     "timeWeek": 359,
-    "timeMonth": 352,
+    "timeMonth": 342,
     "timeYear": 233,
     "dailyMinutesDown": {
       "2025-07-23": 23
@@ -130,17 +130,17 @@
     "slug": "portfolio-site",
     "status": "down",
     "uptime": "99.11%",
-    "uptimeDay": "36.19%",
-    "uptimeWeek": "75.86%",
+    "uptimeDay": "36.90%",
+    "uptimeWeek": "75.82%",
     "uptimeMonth": "94.44%",
     "uptimeYear": "99.11%",
     "time": 372,
-    "timeDay": 377,
+    "timeDay": 375,
     "timeWeek": 415,
     "timeMonth": 348,
     "timeYear": 372,
     "dailyMinutesDown": {
-      "2025-08-24": 907,
+      "2025-08-24": 911,
       "2025-08-23": 846,
       "2025-08-22": 686
     }
