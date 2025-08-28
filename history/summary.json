@@ -6,20 +6,20 @@
     "slug": "portfolio-site",
     "status": "down",
     "uptime": "99.06%",
-    "uptimeDay": "35.13%",
-    "uptimeWeek": "74.05%",
-    "uptimeMonth": "94.03%",
+    "uptimeDay": "35.07%",
+    "uptimeWeek": "73.99%",
+    "uptimeMonth": "94.01%",
     "uptimeYear": "99.06%",
     "time": 385,
-    "timeDay": 680,
+    "timeDay": 683,
     "timeWeek": 495,
     "timeMonth": 384,
     "timeYear": 385,
     "dailyMinutesDown": {
-      "2025-08-28": 469,
+      "2025-08-28": 492,
       "2025-08-27": 948,
       "2025-08-26": 997,
-      "2025-08-25": 204
+      "2025-08-25": 186
     }
   },
   {
@@ -131,9 +131,9 @@
     "slug": "portfolio-site",
     "status": "down",
     "uptime": "99.06%",
-    "uptimeDay": "35.13%",
-    "uptimeWeek": "74.04%",
-    "uptimeMonth": "94.03%",
+    "uptimeDay": "35.03%",
+    "uptimeWeek": "73.99%",
+    "uptimeMonth": "94.01%",
     "uptimeYear": "99.06%",
     "time": 385,
     "timeDay": 683,
@@ -141,10 +141,10 @@
     "timeMonth": 384,
     "timeYear": 385,
     "dailyMinutesDown": {
-      "2025-08-28": 470,
+      "2025-08-28": 493,
       "2025-08-27": 948,
       "2025-08-26": 997,
-      "2025-08-25": 204
+      "2025-08-25": 186
     }
   },
   {
