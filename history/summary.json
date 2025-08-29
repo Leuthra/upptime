@@ -6,17 +6,17 @@
     "slug": "portfolio-site",
     "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "34.72%",
-    "uptimeWeek": "76.00%",
+    "uptimeDay": "34.81%",
+    "uptimeWeek": "76.02%",
     "uptimeMonth": "94.48%",
     "uptimeYear": "99.14%",
     "time": 387,
-    "timeDay": 375,
+    "timeDay": 377,
     "timeWeek": 475,
     "timeMonth": 389,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2025-08-29": 884,
+      "2025-08-29": 883,
       "2025-08-28": 928,
       "2025-08-27": 611
     }
@@ -35,7 +35,7 @@
     "time": 1210,
     "timeDay": 307,
     "timeWeek": 1104,
-    "timeMonth": 1241,
+    "timeMonth": 1263,
     "timeYear": 1210,
     "dailyMinutesDown": {
       "2025-07-23": 23
@@ -55,7 +55,7 @@
     "time": 2255,
     "timeDay": 344,
     "timeWeek": 2026,
-    "timeMonth": 2152,
+    "timeMonth": 2201,
     "timeYear": 2255,
     "dailyMinutesDown": {
       "2025-07-23": 23
@@ -75,7 +75,7 @@
     "time": 958,
     "timeDay": 622,
     "timeWeek": 1003,
-    "timeMonth": 994,
+    "timeMonth": 1012,
     "timeYear": 958,
     "dailyMinutesDown": {
       "2025-07-23": 23,
@@ -97,7 +97,7 @@
     "time": 242,
     "timeDay": 236,
     "timeWeek": 258,
-    "timeMonth": 268,
+    "timeMonth": 267,
     "timeYear": 242,
     "dailyMinutesDown": {
       "2025-07-23": 23
@@ -117,7 +117,7 @@
     "time": 233,
     "timeDay": 262,
     "timeWeek": 267,
-    "timeMonth": 305,
+    "timeMonth": 300,
     "timeYear": 233,
     "dailyMinutesDown": {
       "2025-07-23": 23
@@ -130,17 +130,17 @@
     "slug": "portfolio-site",
     "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "34.68%",
-    "uptimeWeek": "76.00%",
+    "uptimeDay": "34.76%",
+    "uptimeWeek": "76.01%",
     "uptimeMonth": "94.48%",
     "uptimeYear": "99.14%",
     "time": 387,
-    "timeDay": 375,
+    "timeDay": 377,
     "timeWeek": 475,
     "timeMonth": 389,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2025-08-29": 885,
+      "2025-08-29": 884,
       "2025-08-28": 928,
       "2025-08-27": 611
     }
