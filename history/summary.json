@@ -5,20 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/romi.my.id.ico",
     "slug": "portfolio-site",
     "status": "down",
-    "uptime": "99.13%",
-    "uptimeDay": "35.54%",
-    "uptimeWeek": "75.76%",
-    "uptimeMonth": "94.42%",
-    "uptimeYear": "99.13%",
+    "uptime": "99.14%",
+    "uptimeDay": "34.82%",
+    "uptimeWeek": "76.04%",
+    "uptimeMonth": "94.49%",
+    "uptimeYear": "99.14%",
     "time": 387,
-    "timeDay": 371,
+    "timeDay": 372,
     "timeWeek": 474,
     "timeMonth": 389,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2025-08-29": 909,
+      "2025-08-29": 919,
       "2025-08-28": 928,
-      "2025-08-27": 611
+      "2025-08-27": 572
     }
   },
   {
@@ -35,7 +35,7 @@
     "time": 1210,
     "timeDay": 307,
     "timeWeek": 1104,
-    "timeMonth": 1275,
+    "timeMonth": 1296,
     "timeYear": 1210,
     "dailyMinutesDown": {
       "2025-07-23": 23
@@ -55,7 +55,7 @@
     "time": 2255,
     "timeDay": 344,
     "timeWeek": 2026,
-    "timeMonth": 2238,
+    "timeMonth": 2286,
     "timeYear": 2255,
     "dailyMinutesDown": {
       "2025-07-23": 23
@@ -75,7 +75,7 @@
     "time": 958,
     "timeDay": 622,
     "timeWeek": 1003,
-    "timeMonth": 1018,
+    "timeMonth": 1031,
     "timeYear": 958,
     "dailyMinutesDown": {
       "2025-07-23": 23,
@@ -97,7 +97,7 @@
     "time": 242,
     "timeDay": 236,
     "timeWeek": 258,
-    "timeMonth": 269,
+    "timeMonth": 267,
     "timeYear": 242,
     "dailyMinutesDown": {
       "2025-07-23": 23
@@ -117,7 +117,7 @@
     "time": 233,
     "timeDay": 262,
     "timeWeek": 267,
-    "timeMonth": 290,
+    "timeMonth": 285,
     "timeYear": 233,
     "dailyMinutesDown": {
       "2025-07-23": 23
@@ -130,19 +130,19 @@
     "slug": "portfolio-site",
     "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "35.51%",
-    "uptimeWeek": "75.90%",
-    "uptimeMonth": "94.46%",
+    "uptimeDay": "34.78%",
+    "uptimeWeek": "76.03%",
+    "uptimeMonth": "94.49%",
     "uptimeYear": "99.14%",
     "time": 387,
-    "timeDay": 371,
+    "timeDay": 372,
     "timeWeek": 474,
     "timeMonth": 389,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2025-08-29": 910,
+      "2025-08-29": 920,
       "2025-08-28": 928,
-      "2025-08-27": 596
+      "2025-08-27": 572
     }
   },
   {
