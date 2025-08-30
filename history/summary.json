@@ -6,20 +6,20 @@
     "slug": "portfolio-site",
     "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "41.97%",
-    "uptimeWeek": "74.67%",
-    "uptimeMonth": "94.17%",
+    "uptimeDay": "41.43%",
+    "uptimeWeek": "74.79%",
+    "uptimeMonth": "94.20%",
     "uptimeYear": "99.10%",
     "time": 385,
-    "timeDay": 325,
+    "timeDay": 326,
     "timeWeek": 471,
     "timeMonth": 388,
     "timeYear": 385,
     "dailyMinutesDown": {
-      "2025-08-30": 656,
+      "2025-08-30": 664,
       "2025-08-29": 931,
       "2025-08-28": 928,
-      "2025-08-27": 38
+      "2025-08-27": 19
     }
   },
   {
@@ -29,9 +29,9 @@
     "slug": "api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1202,
     "timeDay": 653,
@@ -39,7 +39,6 @@
     "timeMonth": 1219,
     "timeYear": 1202,
     "dailyMinutesDown": {
-      "2025-08-30": 8,
       "2025-07-23": 23
     }
   },
@@ -50,9 +49,9 @@
     "slug": "cdn-uploader",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2228,
     "timeDay": 291,
@@ -60,7 +59,6 @@
     "timeMonth": 2139,
     "timeYear": 2228,
     "dailyMinutesDown": {
-      "2025-08-30": 8,
       "2025-07-23": 23
     }
   },
@@ -71,9 +69,9 @@
     "slug": "pkl-countdown",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 953,
     "timeDay": 607,
@@ -81,7 +79,6 @@
     "timeMonth": 971,
     "timeYear": 953,
     "dailyMinutesDown": {
-      "2025-08-30": 9,
       "2025-07-23": 23,
       "2025-04-11": 54,
       "2025-04-06": 33
@@ -94,9 +91,9 @@
     "slug": "ac-repair",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 243,
     "timeDay": 254,
@@ -104,7 +101,6 @@
     "timeMonth": 267,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2025-08-30": 9,
       "2025-07-23": 23
     }
   },
@@ -115,9 +111,9 @@
     "slug": "docs-template",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 233,
     "timeDay": 186,
@@ -125,7 +121,6 @@
     "timeMonth": 263,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2025-08-30": 9,
       "2025-07-23": 23
     }
   },
@@ -136,20 +131,20 @@
     "slug": "portfolio-site",
     "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "41.93%",
-    "uptimeWeek": "74.86%",
-    "uptimeMonth": "94.21%",
+    "uptimeDay": "41.39%",
+    "uptimeWeek": "74.94%",
+    "uptimeMonth": "94.23%",
     "uptimeYear": "99.10%",
     "time": 385,
-    "timeDay": 327,
+    "timeDay": 326,
     "timeWeek": 471,
     "timeMonth": 388,
     "timeYear": 385,
     "dailyMinutesDown": {
-      "2025-08-30": 657,
+      "2025-08-30": 665,
       "2025-08-29": 931,
       "2025-08-28": 928,
-      "2025-08-27": 19
+      "2025-08-27": 3
     }
   },
   {
