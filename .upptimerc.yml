@@ -15,8 +15,6 @@ sites:
     url: https://acrepair.romi.my.id
   - name: Docs Template
     url: https://docs.romi.my.id
-  - name: Portfolio Site
-    url: https://romidev.tech
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
