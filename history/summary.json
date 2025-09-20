@@ -11,9 +11,9 @@
     "uptimeMonth": "94.05%",
     "uptimeYear": "99.16%",
     "time": 385,
-    "timeDay": 306,
-    "timeWeek": 320,
-    "timeMonth": 442,
+    "timeDay": 483,
+    "timeWeek": 346,
+    "timeMonth": 445,
     "timeYear": 385,
     "dailyMinutesDown": {
       "2025-09-02": 392,
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1157,
-    "timeDay": 1106,
-    "timeWeek": 934,
-    "timeMonth": 865,
-    "timeYear": 1157,
+    "time": 1155,
+    "timeDay": 733,
+    "timeWeek": 976,
+    "timeMonth": 876,
+    "timeYear": 1155,
     "dailyMinutesDown": {
       "2025-07-23": 23
     }
@@ -53,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2132,
-    "timeDay": 1777,
-    "timeWeek": 2059,
-    "timeMonth": 1512,
-    "timeYear": 2132,
+    "time": 2126,
+    "timeDay": 563,
+    "timeWeek": 2080,
+    "timeMonth": 1459,
+    "timeYear": 2126,
     "dailyMinutesDown": {
       "2025-07-23": 23
     }
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 935,
-    "timeDay": 773,
-    "timeWeek": 887,
-    "timeMonth": 821,
-    "timeYear": 935,
+    "time": 936,
+    "timeDay": 1048,
+    "timeWeek": 937,
+    "timeMonth": 833,
+    "timeYear": 936,
     "dailyMinutesDown": {
       "2025-07-23": 23,
       "2025-04-11": 54,
@@ -96,9 +96,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 246,
-    "timeDay": 292,
-    "timeWeek": 296,
-    "timeMonth": 259,
+    "timeDay": 259,
+    "timeWeek": 300,
+    "timeMonth": 261,
     "timeYear": 246,
     "dailyMinutesDown": {
       "2025-07-23": 23
@@ -116,9 +116,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 237,
-    "timeDay": 167,
-    "timeWeek": 238,
-    "timeMonth": 266,
+    "timeDay": 343,
+    "timeWeek": 259,
+    "timeMonth": 269,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2025-07-23": 23
