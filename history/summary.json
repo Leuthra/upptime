@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.22%",
     "time": 385,
-    "timeDay": 410,
-    "timeWeek": 313,
-    "timeMonth": 324,
+    "timeDay": 245,
+    "timeWeek": 324,
+    "timeMonth": 322,
     "timeYear": 385,
     "dailyMinutesDown": {
       "2025-09-02": 392,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1140,
-    "timeDay": 1465,
-    "timeWeek": 1133,
-    "timeMonth": 867,
+    "timeDay": 1195,
+    "timeWeek": 1217,
+    "timeMonth": 881,
     "timeYear": 1140,
     "dailyMinutesDown": {
       "2025-07-23": 23
@@ -53,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2085,
-    "timeDay": 2385,
-    "timeWeek": 1738,
-    "timeMonth": 1518,
-    "timeYear": 2085,
+    "time": 2087,
+    "timeDay": 2590,
+    "timeWeek": 1915,
+    "timeMonth": 1565,
+    "timeYear": 2087,
     "dailyMinutesDown": {
       "2025-07-23": 23
     }
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 922,
-    "timeDay": 1045,
-    "timeWeek": 892,
-    "timeMonth": 785,
-    "timeYear": 922,
+    "time": 923,
+    "timeDay": 1032,
+    "timeWeek": 917,
+    "timeMonth": 791,
+    "timeYear": 923,
     "dailyMinutesDown": {
       "2025-07-23": 23,
       "2025-04-11": 54,
@@ -96,9 +96,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 248,
-    "timeDay": 104,
-    "timeWeek": 280,
-    "timeMonth": 277,
+    "timeDay": 128,
+    "timeWeek": 239,
+    "timeMonth": 272,
     "timeYear": 248,
     "dailyMinutesDown": {
       "2025-07-23": 23
@@ -115,11 +115,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 238,
-    "timeDay": 307,
-    "timeWeek": 191,
-    "timeMonth": 252,
-    "timeYear": 238,
+    "time": 239,
+    "timeDay": 437,
+    "timeWeek": 245,
+    "timeMonth": 255,
+    "timeYear": 239,
     "dailyMinutesDown": {
       "2025-07-23": 23
     }
